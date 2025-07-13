@@ -66,13 +66,6 @@ Kaggle mirror: https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
 git clone https://github.com/BlackVenus2003/Turbofan_RUL_Estimation.git
 cd Turbofan_RUL_Estimation
 
-# Set up virtual environment
-python3 -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
 ```
 ## Run the Model
 
